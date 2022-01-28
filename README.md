@@ -1,2 +1,2 @@
-# tearaform_test
+# terraform_test
 Testing repo
