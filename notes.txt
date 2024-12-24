@@ -1,3 +1,5 @@
 Register-AzResourceProvider -ProviderNamespace Microsoft.Network
 Register-AzResourceProvider -ProviderNamespace Microsoft.compute
 
+git config --global user.email "eforeilly@vivaldi.net"
+git config --global user.name "ElliottOReilly-LIN"
