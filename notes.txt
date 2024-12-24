@@ -1,0 +1,4 @@
+Register-AzResourceProvider -ProviderNamespace Microsoft.Network
+Register-AzResourceProvider -ProviderNamespace Microsoft.compute
+
+2f560313-7a30-436a-bd28-80f0c7e43eaf
